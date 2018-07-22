@@ -1,0 +1,6 @@
+c:\Users\ramya.vempalla\source\repos\Events\Neudesic.Model\bin\Debug\Neudesic.Model.dll
+c:\Users\ramya.vempalla\source\repos\Events\Neudesic.Model\bin\Debug\Neudesic.Model.pdb
+c:\Users\ramya.vempalla\source\repos\Events\Neudesic.Model\obj\Debug\Neudesic.Model.csprojAssemblyReference.cache
+c:\Users\ramya.vempalla\source\repos\Events\Neudesic.Model\obj\Debug\Neudesic.Model.csproj.CoreCompileInputs.cache
+c:\Users\ramya.vempalla\source\repos\Events\Neudesic.Model\obj\Debug\Neudesic.Model.dll
+c:\Users\ramya.vempalla\source\repos\Events\Neudesic.Model\obj\Debug\Neudesic.Model.pdb

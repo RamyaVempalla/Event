@@ -1,0 +1,10 @@
+c:\users\ramya.vempalla\source\repos\Events\Events\bin\Debug\Events.exe.config
+c:\users\ramya.vempalla\source\repos\Events\Events\bin\Debug\Events.exe
+c:\users\ramya.vempalla\source\repos\Events\Events\bin\Debug\Events.pdb
+c:\users\ramya.vempalla\source\repos\Events\Events\bin\Debug\Neudesic.Model.dll
+c:\users\ramya.vempalla\source\repos\Events\Events\bin\Debug\Neudesic.Model.pdb
+c:\users\ramya.vempalla\source\repos\Events\Events\obj\Debug\Events.csprojAssemblyReference.cache
+c:\users\ramya.vempalla\source\repos\Events\Events\obj\Debug\Events.csproj.CoreCompileInputs.cache
+c:\users\ramya.vempalla\source\repos\Events\Events\obj\Debug\Events.csproj.CopyComplete
+c:\users\ramya.vempalla\source\repos\Events\Events\obj\Debug\Events.exe
+c:\users\ramya.vempalla\source\repos\Events\Events\obj\Debug\Events.pdb
